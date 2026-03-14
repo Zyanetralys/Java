@@ -86,13 +86,6 @@ Este repositorio es mi **campo de pruebas**.
 [![Data Structures](https://img.shields.io/badge/🗂️_DATA_STRUCTURES-LEARNING-FFA500?style=for-the-badge&logo=database&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/Java/blob/main/DataStructures.md)
 [![Exercises](https://img.shields.io/badge/📝_DAILY_EXERCISES-IN_PROGRESS-4169E1?style=for-the-badge&logo=edit&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/Java)
 
-### **TARGETS ACQUIRED**
-[![Clean Code](https://img.shields.io/badge/CLEAN_CODE-OBJECTIVE-FFA500?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/Zyanetralys/Java)
-[![Logic Building](https://img.shields.io/badge/LOGIC_BUILDING-PRIORITY_ONE-FF0000?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/Zyanetralys/Java)
-
-![Education](https://img.shields.io/badge/EDUCATIONAL_PURPOSE-VERIFIED-1E90FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Honesty](https://img.shields.io/badge/LEARNING_MODE-ACTIVE-00FF00?style=for-the-badge&logo=terminal&logoColor=black)
-
 </div>
 
 <p align="center">
