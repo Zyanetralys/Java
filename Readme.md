@@ -51,7 +51,7 @@
 
 > *"Veritas Ex Code."*
 
-Este repositorio es mi **campo de pruebas tácticas**.
+Este repositorio es mi **campo de pruebas**.
 
 ### 🎯 CURRENT FOCUS
 - **Core Logic:** Algoritmos, estructuras de datos y resolución de problemas.
