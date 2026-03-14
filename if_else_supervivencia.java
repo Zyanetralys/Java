@@ -2,7 +2,7 @@ public class Ordenes4_Supervivencia {
 public static void main(String[] args) {
 
 double bateria = 34.5 / 2.1;
-double contacto = 400.0 / 15.0
+double contacto = 400.0 / 15.0;
 
 if (bateria < 10) {
 System.out.println("Apagar sistemas no esenciales");
