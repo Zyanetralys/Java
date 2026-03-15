@@ -1,11 +1,9 @@
 public class TunelSheol {
     public static void main(String[] args) {
-        // Bucle FOR: Recorre los sectores del 1 al 5
         for (int i = 1; i <= 5; i++) {
             
             System.out.println("--- Entrando al Sector " + i + " ---");
 
-            // SWITCH: Decide la acción según el sector actual (i)
             switch (i) {
                 case 1:
                     System.out.println("Protocolo Alpha: Amenaza Baja. Solo registro.");
