@@ -21,3 +21,24 @@ do {
     System.out.println("Intentando conectar...");
     intentos++; // Sumas un intento
 } while (intentos < 3); // Verificas SI DEBES repetir después de ejecutar
+
+
+// 1. FOR (Conteo fijo: 5 granadas)
+for (int i = 0; i < 5; i++) {
+    // i empieza en 0. Mientras i sea menor que 5. Suma 1 cada vez.
+    System.out.println("Granada lanzada: " + i); 
+}
+
+// 2. WHILE (Condición: Mientras haya energía)
+int energia = 10;
+while (energia > 0) {
+    System.out.println("Energía restante: " + energia);
+    energia--; // Gasta energía
+}
+
+// 3. DO-WHILE (Ejecuta primero, pregunta después)
+int intentos = 0;
+do {
+    System.out.println("Intentando conectar...");
+    intentos++;
+} while (intentos < 3); // Verifica después de intentar
