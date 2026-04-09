@@ -3,7 +3,7 @@ package codigo;
 import java.util.Scanner;
 
 public class Main {
-
+    // CORRECCIÓN: String[] args
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -17,7 +17,6 @@ public class Main {
         String raza = scanner.nextLine();
 
         Heroe heroe = new Heroe(nombre, apellidos, raza);
-
         heroe.mostrarInfo();
 
         scanner.close();
