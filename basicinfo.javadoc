@@ -1,0 +1,17 @@
+/**
+ * La clase Main contiene el método principal.
+ * @param args Argumentos de la línea de comandos.
+ * @author Agente [TÚ]
+ * @version 1.0
+ */
+public class Main {
+    /**
+     * Suma dos enteros.
+     * @param a Primer número
+     * @param b Segundo número
+     * @return La suma de a y b
+     */
+    public static int sumar(int a, int b) {
+        return a + b;
+    }
+}
