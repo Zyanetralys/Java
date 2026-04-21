@@ -70,7 +70,7 @@ Este repositorio es mi **campo de pruebas**.
 | :---: | :---: | :---: | :---: |
 | Core Syntax & OOP | Version Control | Terminal Ops | Build Management |
 
-| <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="25"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br>**SQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/><br>**IntelliJ** |
+| <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="25"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br>**SQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/><br>**Eclipse** |
 | :---: | :---: | :---: |
 | Unit Testing | Basic Queries | IDE Warfare |
 
