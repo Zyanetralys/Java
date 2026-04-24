@@ -30,4 +30,4 @@ public class Main {
 
 }
 
-//salida: 11
+//salida: 11, porque va sumando todo acumulando la suma hasta el 7 que aparece en el array o cadena de números
