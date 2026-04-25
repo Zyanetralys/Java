@@ -33,6 +33,8 @@
   - [10.3. Probemos otro lenguaje: Python](#103-probemos-otro-lenguaje-python)
 - [BIBLIOGRAFÍA / WEBGRAFÍA](#bibliografía--webgrafía)
 
+---
+
 ## 6. PROGRAMACIÓN ORIENTADA A OBJETOS II
 ### 6.1. Métodos y variables estáticas
 - **Definición:** Pertenecen a la clase, no a instancias. Se inicializan una vez y se comparten entre todos los objetos. Se acceden sin instanciar.
