@@ -1,4 +1,4 @@
-# Programación A - DAM | Resumen de Estudio
+# Programación A
 
 ## FASE 0: FUNDAMENTOS (Tema 0)
 
