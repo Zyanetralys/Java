@@ -2,7 +2,7 @@
 
 ---
 
-## 📑 ÍNDICE
+## ÍNDICE
 1. [TEMA 0: QUÉ ES LA PROGRAMACIÓN](#tema-0)
 2. [TEMA 1: PROGRAMACIÓN ESTRUCTURADA](#tema-1)
 3. [TEMA 2: ESTRUCTURAS DE CONTROL](#tema-2)
