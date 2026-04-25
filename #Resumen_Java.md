@@ -217,7 +217,7 @@
 
 ---
 
-## 17. JAVA MODERNO
+## 17. JAVA MODERNO (21-2026) 
 | Concepto | Definición Directa | Nota |
 |----------|-------------------|----------------------|
 | **Pattern Matching Everywhere** | `instanceof`, `switch`, records, sealed. Exhaustividad obligatoria en `sealed` + `switch`. | `if (obj instanceof String s && s.length() > 5) { log(s); }` `switch(obj) { case Integer i -> log(i); case String s -> log(s); }` |
