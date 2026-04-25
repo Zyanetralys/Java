@@ -1,6 +1,6 @@
 # Programación A - DAM | Resumen de Estudio
 
-## FASE 0: FUNDAMENTOS Y DOCTRINA (Tema 0)
+## FASE 0: FUNDAMENTOS (Tema 0)
 
 | Concepto | Definición | Clave para Examen |
 |----------|------------|-------------------|
@@ -13,7 +13,7 @@ Línea Temporal: Ábaco → Telar Jacquard (1801) → Ada Lovelace (1843) → Tu
 
 ---
 
-## FASE 1: ARMAMENTO ESTRUCTURAL (Tema 1)
+## FASE 1: ESTRUCTURA (Tema 1)
 
 | Tipo Primitivo | Tamaño | Rango/Valores | Uso |
 |----------------|--------|---------------|-----|
@@ -45,7 +45,7 @@ IDE & Comentarios:
 
 ---
 
-## FASE 2: LÓGICA DE COMBATE (Tema 2)
+## FASE 2: LÓGICA (Tema 2)
 
 | Estructura | Sintaxis Base | Uso |
 |------------|---------------|-----|
@@ -83,7 +83,7 @@ Pseudocódigo & Léxico:
 
 ---
 
-## FASE 3: INTELIGENCIA Y DEPURACIÓN (Tema 3)
+## FASE 3: DEPURACIÓN (Tema 3)
 
 | Tipo de Error | Detección | Causa | Solución |
 |---------------|-----------|-------|----------|
@@ -297,7 +297,7 @@ public class MiClase {
 
 ---
 
-## NOTAS DE EXAMEN / ERRORES FRECUENTES
+## ERRORES FRECUENTES
 
 | Situación | Error Típico | Solución Rápida |
 |-----------|--------------|-----------------|
@@ -314,11 +314,11 @@ public class MiClase {
 
 ## MAPA DE PROGRESIÓN TEMÁTICA (Resumen Visual)
 
-TEMA 0: Base → Algoritmo → Pensamiento Computacional → Ciclo de Vida
-TEMA 1: Tipos Primitivos → Operadores → Casting → IDE y Documentación
-TEMA 2: Condicionales → Bucles → Estructuras de Salto → Métodos → Recursividad
-TEMA 3: Clasificación de Errores → Try-Catch-Finally → Logs → Debugger → JUnit → Métricas
-TEMA 4: Clase/Objeto → Encapsulación → Constructores → Paquetes → Gestión de Memoria (Heap/Stack)
-TEMA 5: CLI/JSwing → Colecciones (List/Map) → E/S Archivos → JAXB/XML → JasperReports
+- TEMA 0: Base → Algoritmo → Pensamiento Computacional → Ciclo de Vida
+- TEMA 1: Tipos Primitivos → Operadores → Casting → IDE y Documentación
+- TEMA 2: Condicionales → Bucles → Estructuras de Salto → Métodos → Recursividad
+- TEMA 3: Clasificación de Errores → Try-Catch-Finally → Logs → Debugger → JUnit → Métricas
+- TEMA 4: Clase/Objeto → Encapsulación → Constructores → Paquetes → Gestión de Memoria (Heap/Stack)
+- TEMA 5: CLI/JSwing → Colecciones (List/Map) → E/S Archivos → JAXB/XML → JasperReports
 
 FIN DEL DOCUMENTO
