@@ -200,7 +200,7 @@ Reglas de Integración (continuación):
 | ConcurrentModificationException | Modificar colección mientras se itera | Usar Iterator.remove() o colecciones concurrentes |
 
 ### Buenas Prácticas de Código
-- Nombres significativos: variables en camelCase, clases en PascalCase, constantes en UPPER_SNAKE_CASE
+- Nombres relevantes: variables en camelCase, clases en PascalCase, constantes en UPPER_SNAKE_CASE
 - Métodos cortos: Una responsabilidad por método, máximo 20-30 líneas
 - Comentarios útiles: Explicar el porqué, no el qué (el código ya dice el qué)
 - DRY (Don't Repeat Yourself): Extraer lógica repetida a métodos reutilizables
@@ -320,5 +320,3 @@ public class MiClase {
 - TEMA 3: Clasificación de Errores → Try-Catch-Finally → Logs → Debugger → JUnit → Métricas
 - TEMA 4: Clase/Objeto → Encapsulación → Constructores → Paquetes → Gestión de Memoria (Heap/Stack)
 - TEMA 5: CLI/JSwing → Colecciones (List/Map) → E/S Archivos → JAXB/XML → JasperReports
-
-FIN DEL DOCUMENTO
