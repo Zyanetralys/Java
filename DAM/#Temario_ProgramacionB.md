@@ -1,5 +1,7 @@
 # RESUMEN DE PROGRAMACIÓN B
 
+---
+
 ## ÍNDICE
 - [TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS II](#6-programación-orientada-a-objetos-ii)
   - [6.1. Métodos y variables estáticas](#61-métodos-y-variables-estáticas)
