@@ -1,5 +1,13 @@
 # RESUMEN DE PROGRAMACIÓN B
 
+## ÍNDICE
+TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS II
+TEMA 7: ESTRUCTURAS DE DATOS
+TEMA 8: PROGRAMACIÓN Y BASES DE DATOS
+TEMA 9: CRUD CON BASES DE DATOS
+TEMA 10: PRÓXIMOS PASOS
+BIBLIOGRAFÍA / WEBGRAFÍA
+
 ## 6. PROGRAMACIÓN ORIENTADA A OBJETOS II
 ### 6.1. Métodos y variables estáticas
 - **Definición:** Pertenecen a la clase, no a instancias. Se inicializan una vez y se comparten entre todos los objetos. Se acceden sin instanciar.
