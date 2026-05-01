@@ -4,3 +4,6 @@
 - values(): Retorna Colección de valores (values)
  - keySet(): Retorna Conjunto de claves (keys)
  - entrySet(): Retorna Conjunto de entradas (entry s)
+   
+ - OBJETOS se guardan en HEAP.
+ - Las REFERENCIAS a objetos se guardan en STACK.
